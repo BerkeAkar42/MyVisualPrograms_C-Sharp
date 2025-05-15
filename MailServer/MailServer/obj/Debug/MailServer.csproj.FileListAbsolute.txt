@@ -1,0 +1,10 @@
+C:\Users\Berke\source\repos\MailServer\MailServer\bin\Debug\MailServer.exe.config
+C:\Users\Berke\source\repos\MailServer\MailServer\bin\Debug\MailServer.exe
+C:\Users\Berke\source\repos\MailServer\MailServer\bin\Debug\MailServer.pdb
+C:\Users\Berke\source\repos\MailServer\MailServer\obj\Debug\MailServer.csproj.AssemblyReference.cache
+C:\Users\Berke\source\repos\MailServer\MailServer\obj\Debug\MailServer.Form1.resources
+C:\Users\Berke\source\repos\MailServer\MailServer\obj\Debug\MailServer.Properties.Resources.resources
+C:\Users\Berke\source\repos\MailServer\MailServer\obj\Debug\MailServer.csproj.GenerateResource.cache
+C:\Users\Berke\source\repos\MailServer\MailServer\obj\Debug\MailServer.csproj.CoreCompileInputs.cache
+C:\Users\Berke\source\repos\MailServer\MailServer\obj\Debug\MailServer.exe
+C:\Users\Berke\source\repos\MailServer\MailServer\obj\Debug\MailServer.pdb
