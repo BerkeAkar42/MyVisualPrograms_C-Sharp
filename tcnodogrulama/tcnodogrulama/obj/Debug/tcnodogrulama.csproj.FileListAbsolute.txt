@@ -1,0 +1,10 @@
+C:\Users\Berke\source\repos\tcnodogrulama\tcnodogrulama\bin\Debug\tcnodogrulama.exe.config
+C:\Users\Berke\source\repos\tcnodogrulama\tcnodogrulama\bin\Debug\tcnodogrulama.exe
+C:\Users\Berke\source\repos\tcnodogrulama\tcnodogrulama\bin\Debug\tcnodogrulama.pdb
+C:\Users\Berke\source\repos\tcnodogrulama\tcnodogrulama\obj\Debug\tcnodogrulama.csproj.AssemblyReference.cache
+C:\Users\Berke\source\repos\tcnodogrulama\tcnodogrulama\obj\Debug\tcnodogrulama.Form1.resources
+C:\Users\Berke\source\repos\tcnodogrulama\tcnodogrulama\obj\Debug\tcnodogrulama.Properties.Resources.resources
+C:\Users\Berke\source\repos\tcnodogrulama\tcnodogrulama\obj\Debug\tcnodogrulama.csproj.GenerateResource.cache
+C:\Users\Berke\source\repos\tcnodogrulama\tcnodogrulama\obj\Debug\tcnodogrulama.csproj.CoreCompileInputs.cache
+C:\Users\Berke\source\repos\tcnodogrulama\tcnodogrulama\obj\Debug\tcnodogrulama.exe
+C:\Users\Berke\source\repos\tcnodogrulama\tcnodogrulama\obj\Debug\tcnodogrulama.pdb
