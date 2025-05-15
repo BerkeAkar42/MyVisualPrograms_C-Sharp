@@ -1,0 +1,10 @@
+C:\Users\Berke\source\repos\kronometre\kronometre\obj\Debug\kronometre.csproj.AssemblyReference.cache
+C:\Users\Berke\source\repos\kronometre\kronometre\obj\Debug\kronometre.csproj.GenerateResource.cache
+C:\Users\Berke\source\repos\kronometre\kronometre\obj\Debug\kronometre.csproj.CoreCompileInputs.cache
+C:\Users\Berke\source\repos\kronometre\kronometre\bin\Debug\Quiz.exe.config
+C:\Users\Berke\source\repos\kronometre\kronometre\bin\Debug\Quiz.exe
+C:\Users\Berke\source\repos\kronometre\kronometre\bin\Debug\Quiz.pdb
+C:\Users\Berke\source\repos\kronometre\kronometre\obj\Debug\Quiz.Form1.resources
+C:\Users\Berke\source\repos\kronometre\kronometre\obj\Debug\Quiz.Properties.Resources.resources
+C:\Users\Berke\source\repos\kronometre\kronometre\obj\Debug\Quiz.exe
+C:\Users\Berke\source\repos\kronometre\kronometre\obj\Debug\Quiz.pdb
